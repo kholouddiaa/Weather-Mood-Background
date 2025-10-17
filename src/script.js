@@ -28,14 +28,15 @@ btnChangeWeather.onclick = function () {
             break;
         default:
             document.body.style.backgroundImage = "";
-            message.innerText = "";
+            message.innerText = "Please enter a sunny, rainy, or cloudy";
             btnWeatherInput.value = "";
-            // setTimeout(() => {
-                alert("Please enter a sunny, rainy, or cloudy");
-            // }, 200);
+            // // setTimeout(() => {
+            //     alert("Please enter a sunny, rainy, or cloudy");
+            // // }, 200);
     }
 
 }
+
 
 
 
