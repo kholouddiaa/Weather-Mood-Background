@@ -92,13 +92,13 @@ if (value === "rainy") {
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](docs/Screenshot%202026-02-15%20073848.png)
+![Home Page](src/Screenshot%202026-02-15%20073848.png)
 
 ### ☀️ Sunny Mode
-![Sunny Mode](docs/Screenshot%202026-02-15%20073902.png)
+![Sunny Mode](src/Screenshot%202026-02-15%20073902.png)
 
 ### ☁️ Cloudy Mode
-![Cloudy Mode](docs/Screenshot%202026-02-15%20074002.png)
+![Cloudy Mode](src/Screenshot%202026-02-15%20074002.png)
 
 ### 🌧 Rainy Mode
 ![Rainy Mode](docs/Screenshot%202026-02-15%20073940.png)
