@@ -101,7 +101,7 @@ if (value === "rainy") {
 ![Cloudy Mode](src/Screenshot%202026-02-15%20074002.png)
 
 ### 🌧 Rainy Mode
-![Rainy Mode](docs/Screenshot%202026-02-15%20073940.png)
+![Rainy Mode](src/Screenshot%202026-02-15%20073916.png)
 
 ---
 
